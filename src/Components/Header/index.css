@@ -1,0 +1,16 @@
+header {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  padding: 15px 0px;
+}
+header > button {
+  padding: 8px 15px;
+  border-radius: 10px;
+  border: none;
+  outline: none;
+  background-color: #040464;
+  color: #fff;
+  font-weight: 600;
+  cursor: pointer;
+}

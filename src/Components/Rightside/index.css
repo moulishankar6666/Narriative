@@ -1,0 +1,13 @@
+aside {
+  width: 20%;
+  height: 100%;
+}
+aside > button {
+  background-color: #040464;
+  color: #fff;
+  border: none;
+  padding: 8px 0px;
+  border-radius: 10px;
+  cursor: pointer;
+  font-weight: bold;
+}

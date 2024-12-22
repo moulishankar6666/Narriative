@@ -1,0 +1,18 @@
+aside {
+  width: 20%;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  gap: 5px;
+  overflow-y: scroll;
+}
+.active {
+  background-color: greenyellow;
+  color: #000;
+  border: solid #000 2px;
+}
+.inactive {
+  background-color: #040464;
+  color: #fff;
+}
